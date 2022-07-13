@@ -3,6 +3,15 @@ A curated lists of fake services you can use for devops development awesomeness!
 
 ## Fake Services
 
+### Online Boutique
+[Online Boutique](https://github.com/GoogleCloudPlatform/microservices-demo) is a cloud-native microservices demo application created by Google. Online Boutique consists of a 11-tier microservices application. The application is a web-based e-commerce app where users can browse items, add them to the cart, and purchase them.****
+
+- Has a service that generates traffic for the application
+- There is also a spinoff of this with instramentation for tracing [here](https://github.com/honeycombio/microservices-demo)
+
+Languages: Go, C#, Node, Python, Java
+tags: microservice, k8s
+
 ### HotROD
 [HotROD](https://www.jaegertracing.io/docs/1.35/getting-started/) (Rides on Demand) is a demo application that consists of several microservices and illustrates the use of the OpenTracing API. A tutorial / walkthrough is available in the blog post: [Take OpenTracing for a HotROD ride](https://medium.com/@YuriShkuro/take-opentracing-for-a-hotrod-ride-f6e3141f7941).
 
